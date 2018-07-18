@@ -774,3 +774,5 @@ System.config({
 I am very appreciate for your ideas, proposals and found bugs which you can put in [github issues](https://github.com/valor-software/ng2-tree/issues). Thanks in advance!
 
 **P.S.** If you find it hard going through the documentation, please, let me know which parts of it was difficult to grasp and I will improve them.
+
+TEST
